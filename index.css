@@ -1,3 +1,6 @@
+*{
+    border : 1px solid red;
+}
 #icon1 {
     width : 27px;
 }
@@ -28,7 +31,10 @@ li {
 
 #card {
     transition: all 0.3s;
+    width : 100% !important;
+    max-width: 25rem;
 }
+
 #card:hover {
     transform : translateY(-5px);
 }
