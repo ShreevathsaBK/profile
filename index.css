@@ -32,6 +32,25 @@ li {
     max-width: 25rem;
 }
 
-#card:hover {
-    transform : translateY(-5px);
+a {
+    text-decoration: none;
+    color : inherit
+}
+
+@media (max-width: 576px) { 
+    li {
+        width : 50%;
+    }
+    ul {
+        align-items: center;
+    }
+}
+
+@media (max-width: 320px) { 
+    li {
+        width : 80%;
+    }
+    ul {
+        align-items: center;
+    }
 }
