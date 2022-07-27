@@ -39,16 +39,25 @@ a {
 
 @media (max-width: 576px) { 
     li {
-        width : 50%;
+        width : 60%;
     }
     ul {
         align-items: center;
     }
 }
 
-@media (max-width: 320px) { 
+@media (max-width: 365px) { 
     li {
         width : 80%;
+    }
+    ul {
+        align-items: center;
+    }
+}
+
+@media (max-width: 285px) { 
+    li {
+        width : 100%;
     }
     ul {
         align-items: center;
