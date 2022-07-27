@@ -1,2 +1,2 @@
-# profile
- 
+# Profile
+A simple profile card.
