@@ -2,4 +2,4 @@
 A simple profile card.
 
 
-<img width="1001" alt="Screenshot 2024-09-03 at 11 36 38 AM" src="https://github.com/user-attachments/assets/a3d424aa-c33d-4222-b78f-163496d5815f">
+<img width="1004" alt="Screenshot 2024-09-03 at 11 44 22 AM" src="https://github.com/user-attachments/assets/4e1671f9-2128-4648-bc08-1277441c3176">
